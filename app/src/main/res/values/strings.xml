@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recognition</string>
+    <string name="face_recognition_btn">Face recognition</string>
+    <string name="text_recognition_btn">Text recognition</string>
+    <string name="take_picture_text">Take a picture</string>
+    <string name="welcome_text">Welcome! Let\'s take a picture first</string>
+</resources>
